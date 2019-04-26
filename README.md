@@ -6,7 +6,7 @@ This is the coding challenge for the job posting from [Backend Senior Java Devel
 
 The goal of this challenge is to write a small client for the [Stripe](https://stripe.com/)-Platform.
 
-We sent you an Stripe Test ApiKey by email. If not pls ask for it.
+Use `sk_test_4eC39HqLyjWDarjtT1zdp7dc` as Stripe API Key.
 
 ## Task
 
@@ -37,6 +37,8 @@ If an exception/error occurs the charge should be refunded. Implement exception 
 - Use the packaging/build tool of your choice.
 - Write the task either as a junit test or as a console programm (ie. _public static void main_)
 - Use the Spring Boot framework whenever usefull.
+- Use `sk_test_4eC39HqLyjWDarjtT1zdp7dc` as Stripe API Key.
+
 
 ## Constraints
 
