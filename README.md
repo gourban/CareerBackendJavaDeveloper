@@ -8,6 +8,8 @@ The goal of this challenge is to write a small client for the [Stripe](https://s
 
 Use `sk_test_4eC39HqLyjWDarjtT1zdp7dc` as Stripe API Key.
 
+Publish your results as a public GitHub/GitLab repo or send it to us as a zip-file.
+
 ## Task
 
 Write a small *console* client for Stripe for the following scenario:
