@@ -1,6 +1,6 @@
-# [Backend Java Developer Coding Challenge]
+# Backend Java Developer Coding Challenge
 
-This is the coding challenge for applying for [Backend Java Developer] at [goUrban](https://gourban-mobility.com/).
+This is the coding challenge for applying for *Backend Java Developer* at [goUrban](https://gourban-mobility.com/).
 
 ## Goal
 
