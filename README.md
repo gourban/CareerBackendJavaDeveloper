@@ -1,6 +1,6 @@
-# [Backend Senior Java Developer](https://gourban-mobility.com/career.html#job-292434)
+# [Backend Java Developer Coding Challenge]
 
-This is the coding challenge for the job posting from [Backend Senior Java Developer](https://gourban-mobility.com/career.html#job-292434) on the [goUrban Career Site](https://gourban-mobility.com/career.html).
+This is the coding challenge for applying for [Backend Java Developer] at [goUrban](https://gourban-mobility.com/).
 
 ## Goal
 
